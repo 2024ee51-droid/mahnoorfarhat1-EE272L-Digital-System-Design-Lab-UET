@@ -1,0 +1,11 @@
+{C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE.sv} {0 {vlog -work work -vopt -sv -stats=none {C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab1_AND_GATE
+** Error: (vlog-13069) C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE.sv(3): near ";": syntax error, unexpected ';', expecting ')'.
+
+} {4.0 5.0} {}} {C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE_TB.sv} {0 {vlog -work work -vopt -sv -stats=none {C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE_TB.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module lab1_AND_GATE_TB
+** Error: (vlog-13069) C:/Users/User/Downloads/lab_experiments/vs studio files/lab1_AND_GATE_TB.sv(4): near ";": syntax error, unexpected ';', expecting ')'.
+
+} {4.0 5.0} {}}
